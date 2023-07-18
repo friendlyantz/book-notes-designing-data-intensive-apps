@@ -1,4 +1,5 @@
 # Notes on Book Designing Data-Intensive Applications
+{:toc}
 
 I am starting the above book and will be going through 1 chapter a week 
 If anybody wants to discuss / draw diagrams / write some markdown notes, on a weekly basis for 60mins - get amogst.
