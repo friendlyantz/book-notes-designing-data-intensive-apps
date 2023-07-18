@@ -119,7 +119,7 @@ This is a fantastic and very easy read I find.
 
 > Your solution will be custom
 
-## Ch 2: Data Models and Query lang-s
+# Ch 2: Data Models and Query lang-s
 
 ### Abstraction
 
