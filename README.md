@@ -1,4 +1,5 @@
 # Notes on Book Designing Data-Intensive Applications
+* [Web version](https://friendlyantz.github.io/book-notes-designing-data-intensive-apps/)
 {:toc}
 
 I am starting the above book and will be going through 1 chapter a week 
