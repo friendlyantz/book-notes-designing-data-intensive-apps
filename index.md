@@ -38,6 +38,10 @@
 {% include_relative _chapters/04.md %}
 {% include_relative _chapters/05.md %}
 {% include_relative _chapters/06.md %}
+{% include_relative _chapters/07.md %}
+{% include_relative _chapters/08.md %}
+{% include_relative _chapters/09.md %}
+{% include_relative _chapters/10.md %}
 
 <script id="dsq-count-scr" src="//ddia-bookclub.disqus.com/count.js" async></script>
 <script id="dsq-count-scr" src="//ddia-bookclub.disqus.com/count.js" async></script>
