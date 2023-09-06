@@ -3,6 +3,8 @@
 # other options
 ---
 
+[GitHub Repo ling](https://github.com/friendlyantz/book-notes-designing-data-intensive-apps)
+
 * [Web version](https://friendlyantz.github.io/book-notes-designing-data-intensive-apps/)
 {:toc}
 

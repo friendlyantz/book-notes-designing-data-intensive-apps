@@ -1,6 +1,6 @@
 [Web version](https://friendlyantz.github.io/book-notes-designing-data-intensive-apps/)
 
-# Notes on Book Designing Data-Intensive Applications
+# Bookclub: Designing Data-Intensive Applications
 
 I am starting the above book and will be going through 1 chapter a week 
 If anybody wants to discuss / draw diagrams / write some markdown notes, on a weekly basis for 60mins - get amogst.
