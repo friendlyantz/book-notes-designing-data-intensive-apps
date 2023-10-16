@@ -3,7 +3,8 @@
 # other options
 ---
 
-[GitHub Repo ling](https://github.com/friendlyantz/book-notes-designing-data-intensive-apps)
+[GitHub Repo link](https://github.com/friendlyantz/book-notes-designing-data-intensive-apps)
+notes on [Design Data Intensive Applications book](https://dataintensive.net/)
 
 * [Web version](https://friendlyantz.github.io/book-notes-designing-data-intensive-apps/)
 {:toc}
